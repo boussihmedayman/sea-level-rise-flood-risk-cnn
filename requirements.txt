@@ -1,0 +1,9 @@
+torch>=2.0
+torchvision>=0.15
+numpy>=1.22
+scipy>=1.8
+Pillow>=9.0
+matplotlib>=3.5
+openpyxl>=3.1
+# Collecte des données GISTDA uniquement (scripts/gistda_ecoplant.py)
+selenium>=4.10
